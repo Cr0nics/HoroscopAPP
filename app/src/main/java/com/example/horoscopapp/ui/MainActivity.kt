@@ -1,4 +1,4 @@
-package com.example.horoscopapp
+package com.example.horoscopapp.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
